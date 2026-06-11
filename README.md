@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="220">
+  <img src="https://github.com/mirsadhaliloviq-alt/mirsadhaliloviq-alt/blob/main/profile.png?raw=true" width="220">
 </p> # Mirsad Haliloviq
 
 Digital Healthcare MSc | Nursing | Healthcare AI
