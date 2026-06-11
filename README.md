@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/mirsadhaliloviq-alt/mirsadhaliloviq-alt/blob/main/profile.png?raw=true" width="220">
-</p> # Mirsad Haliloviq
+  <img src="profile.jpg" width="220">
+</p>
 
+# Mirsad Haliloviq
 Digital Healthcare MSc | Nursing | Healthcare AI
 Bachelor of Nursing and MSc Digital Healthcare graduate passionate about the intersection of healthcare, technology, and artificial intelligence.
 
