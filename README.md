@@ -1,7 +1,6 @@
 <p align="center">
   <img src="profile.jpg" width="220">
 </p>
-
 # Mirsad Haliloviq
 Digital Healthcare MSc | Nursing | Healthcare AI
 Bachelor of Nursing and MSc Digital Healthcare graduate passionate about the intersection of healthcare, technology, and artificial intelligence.
